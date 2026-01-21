@@ -32,8 +32,3 @@ Expense Manager App is a powerful tool designed to help individuals and business
 1. Connect an Android device or start an emulator.
 2. Build and run the Expense Manager App project from Android Studio.
 3. Access the application on your Android device or emulator to start managing your expenses by adding, categorizing, and analyzing them using the available features.
-
-
-## License
-
-This project is licensed under the MIT license.
