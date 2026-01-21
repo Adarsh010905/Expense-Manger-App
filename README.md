@@ -14,7 +14,7 @@ Expense Manager App is a powerful tool designed to help individuals and business
 ## Technologies Used
 
 - **Frontend**: XML
-- **Backend**: JAVA, MongoDB
+- **Backend**: JAVA
 - **Database**: Realm
 - **Code Structure**: MVVM Architecture
 
